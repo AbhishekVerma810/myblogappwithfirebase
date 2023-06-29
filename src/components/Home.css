@@ -1,0 +1,13 @@
+.Container{
+    margin-left: 10%;
+    width: 80%;
+    align-items: baseline;
+    text-align: -webkit-center;
+}
+.post_data{
+    border: 2px solid #673d3d;
+    padding: 10px;
+}
+.post{
+  border: 2px solid red;  
+}
